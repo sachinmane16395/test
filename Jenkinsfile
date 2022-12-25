@@ -67,7 +67,7 @@ pipeline
 		{
 						steps
 						{
-						echo 'deploy apps to k8'
+						echo 'deploy app to k8'
 					    }
 		}
 	}
