@@ -60,7 +60,7 @@ pipeline
 		{
 						steps
 						{
-						echo 'push docker image to nexus'
+						echo 'push docker image to nexu'
 					    }
 		}
 		stage('deploy apps to k8')
