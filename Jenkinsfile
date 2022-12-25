@@ -63,11 +63,11 @@ pipeline
 						echo 'push docker image to nexus'
 					    }
 		}
-		stage('deploy apps to k8's')
+		stage('deploy apps to k8')
 		{
 						steps
 						{
-						echo 'deploy apps to k8's'
+						echo 'deploy apps to k8'
 					    }
 		}
 	}
